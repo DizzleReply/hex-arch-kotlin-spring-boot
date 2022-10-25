@@ -13,7 +13,7 @@ import java.sql.Timestamp;
 import java.util.Arrays;
 import java.util.List;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 
 import org.jooq.Field;
 import org.jooq.ForeignKey;
@@ -42,7 +42,7 @@ import org.jooq.impl.TableImpl;
 @SuppressWarnings({ "all", "unchecked", "rawtypes" })
 public class FlywaySchemaHistory extends TableImpl<FlywaySchemaHistoryRecord> {
 
-    private static final long serialVersionUID = -877426796;
+    private static final long serialVersionUID = 1198204965;
 
     /**
      * The reference instance of <code>flyway_schema_history</code>

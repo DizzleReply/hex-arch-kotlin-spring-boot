@@ -19,6 +19,11 @@ class FindVoterController(
         return just(toJsonList(findVotersUseCase.findByLastName(FindByLastNameQuery(lastName))))
     }
 
+ /*   @GetMapping("/voters")
+    fun findAllVoters(): Mono<List<VoterJson>> {
+        return just(toJsonList(findVotersUseCase.find(findAllVoters())))
+    }*/
+
     private fun toJsonList(people: List<Voter>): List<VoterJson> {
         return people.map {
             VoterJson(firstInitial = it.firstName[0],

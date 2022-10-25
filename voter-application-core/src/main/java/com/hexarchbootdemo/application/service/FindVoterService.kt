@@ -16,4 +16,8 @@ class FindVoterService(val findVoterRepository: FindVoterPort) : FindVoterUseCas
     override suspend fun findByLastNameReactive(query: FindByLastNameQuery): Flow<Voter> {
         return findVoterRepository.findVotersByLastNameReactive(query)
     }
+
+    override fun findByMediaType(query: FindByLastNameQuery): List<Voter> {
+        TODO("Not yet implemented")
+    }
 }

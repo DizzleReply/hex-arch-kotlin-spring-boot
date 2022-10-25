@@ -16,4 +16,7 @@ class QuorumService {
         val percent: Float = (voters.size / membershipSize.toFloat())
         return percent >= QUORUM_MIN_PERCENT
     }
+
+    //
+
 }

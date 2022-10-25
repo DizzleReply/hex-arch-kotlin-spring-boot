@@ -7,7 +7,7 @@ package com.hexarchbootdemo.adapter.output.persistence.h2.generated_sources.jooq
 import java.io.Serializable;
 import java.sql.Timestamp;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 
 
 /**
@@ -23,7 +23,7 @@ import javax.annotation.Generated;
 @SuppressWarnings({ "all", "unchecked", "rawtypes" })
 public class FlywaySchemaHistory implements Serializable {
 
-    private static final long serialVersionUID = -903780023;
+    private static final long serialVersionUID = 947027042;
 
     private final Integer   installedRank;
     private final String    version;

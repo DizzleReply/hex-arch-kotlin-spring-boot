@@ -9,7 +9,7 @@ import com.hexarchbootdemo.adapter.output.persistence.h2.generated_sources.jooq.
 import com.hexarchbootdemo.adapter.output.persistence.h2.generated_sources.jooq.tables.records.FlywaySchemaHistoryRecord;
 import com.hexarchbootdemo.adapter.output.persistence.h2.generated_sources.jooq.tables.records.VoterRecord;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 
 import org.jooq.UniqueKey;
 import org.jooq.impl.Internal;

@@ -15,7 +15,7 @@ internal class R2dbcConfig {
         return ConnectionFactories.get(ConnectionFactoryOptions.builder()
                 .option(ConnectionFactoryOptions.DRIVER, "h2")
                 .option(ConnectionFactoryOptions.PROTOCOL, "file")
-                .option(ConnectionFactoryOptions.DATABASE, "~/VOTER")
+                .option(ConnectionFactoryOptions.DATABASE, "~/MEDIA")
                 .option(ConnectionFactoryOptions.USER, "username")
                 .option(ConnectionFactoryOptions.PASSWORD, "password")
                 .build())

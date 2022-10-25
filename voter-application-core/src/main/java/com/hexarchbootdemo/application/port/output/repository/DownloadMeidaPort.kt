@@ -1,4 +1,7 @@
 package com.hexarchbootdemo.application.port.output.repository
 
-class DownloadMeidaPort {
+interface DownloadMediaPort {
+    fun downloadMediaByUrl(url: String)
+    fun downloadMetadataByUrl(url: String)
+
 }

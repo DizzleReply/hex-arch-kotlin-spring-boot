@@ -1,0 +1,626 @@
+
+"google.search.cse.api851("{
+  "cursor": {
+    "currentPageIndex": 0,
+    "estimatedResultCount": "37600",
+    "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=bla&safe=off&cx=partner-pub-7524682787227502:9l3wirvcbyb&start=0",
+    "resultCount": "37,600",
+    "searchResultTime": "0.22",
+    "pages": [
+      {
+        "label": 1,
+        "start": "0"
+      },
+      {
+        "label": 2,
+        "start": "10"
+      },
+      {
+        "label": 3,
+        "start": "20"
+      },
+      {
+        "label": 4,
+        "start": "30"
+      },
+      {
+        "label": 5,
+        "start": "40"
+      },
+      {
+        "label": 6,
+        "start": "50"
+      },
+      {
+        "label": 7,
+        "start": "60"
+      },
+      {
+        "label": 8,
+        "start": "70"
+      },
+      {
+        "label": 9,
+        "start": "80"
+      },
+      {
+        "label": 10,
+        "start": "90"
+      }
+    ]
+  },
+  "context": {
+    "title": "Lyrics-Suche",
+    "total_results": "340"
+  },
+  "results": [
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:fQevyxi72doJ:genius.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=partner-pub-7524682787227502:9l3wirvcbyb&q=https://genius.com/Tj-beastboy-bla-bla-bla-lyrics&sa=U&ved=2ahUKEwiJ4enuqvz6AhXWgf0HHQ59CAoQFnoECAQQAg&usg=AOvVaw3XLb_XNyCKG7V-1GkevUTx",
+      "content": "18.10.2019 \u003cb\u003e...\u003c/b\u003e [Songtext zu „\u003cb\u003eBLA BLA BLA\u003c/b\u003e“] [Intro] Beastboy Kira on the phone! [Part 1] Ich schreibe Geschichte und du nur Kommis",
+      "contentNoFormatting": "18.10.2019 ... [Songtext zu „BLA BLA BLA“] [Intro] Beastboy Kira on the phone! [Part 1] Ich schreibe Geschichte und du nur Kommis",
+      "title": "TJ_beastboy – \u003cb\u003eBLA BLA BLA\u003c/b\u003e Lyrics | Genius Lyrics",
+      "titleNoFormatting": "TJ_beastboy – BLA BLA BLA Lyrics | Genius Lyrics",
+      "formattedUrl": "https://genius.com/Tj-beastboy-\u003cb\u003ebla\u003c/b\u003e-\u003cb\u003ebla\u003c/b\u003e-\u003cb\u003ebla\u003c/b\u003e-lyrics",
+      "unescapedUrl": "https://genius.com/Tj-beastboy-bla-bla-bla-lyrics",
+      "url": "https://genius.com/Tj-beastboy-bla-bla-bla-lyrics",
+      "visibleUrl": "genius.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://images.genius.com/4d39c82e43cda3da9c8963aab5020929.1000x1000x1.jpg"
+        },
+        "metatags": {
+          "twitterAppUrlIphone": "genius://songs/4924671",
+          "twitterTitle": "TJ_beastboy – BLA BLA BLA",
+          "twitterSite": "@Genius",
+          "fbPages": "308252472676410",
+          "twitterImage": "https://images.genius.com/4d39c82e43cda3da9c8963aab5020929.1000x1000x1.jpg",
+          "twitterUrl": "https://genius.com/Tj-beastboy-bla-bla-bla-lyrics",
+          "ogTitle": "TJ_beastboy – BLA BLA BLA",
+          "ogDescription": "[Songtext zu „BLA BLA BLA“] / [Intro] / Beastboy / Kira on the phone! / [Part 1] / Ich schreibe Geschichte und du nur Kommis / Du Dulli bist angry und ich zeig' dir die Zunge wie",
+          "ogImage": "https://images.genius.com/4d39c82e43cda3da9c8963aab5020929.1000x1000x1.jpg",
+          "ogType": "music.song",
+          "twitterCard": "summary_large_image",
+          "twitterType": "music.song",
+          "viewport": "width=device-width,initial-scale=1",
+          "twitterDescription": "[Songtext zu „BLA BLA BLA“] / [Intro] / Beastboy / Kira on the phone! / [Part 1] / Ich schreibe Geschichte und du nur Kommis / Du Dulli bist angry und ich zeig' dir die Zunge wie",
+          "themeColor": "#d6ea1e",
+          "ogUrl": "https://genius.com/Tj-beastboy-bla-bla-bla-lyrics",
+          "ogSiteName": "Genius",
+          "twitterAppIdIphone": "709482991",
+          "appleItunesApp": "app-id=709482991",
+          "yKey": "f63347d284f184b0",
+          "twitterAppNameIphone": "Genius",
+          "fbAppId": "265539304824"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdIgslhu5uc_fBP5DiVou_XQx3JHJGEfNOe8jQUTi3MNB1BKjFsksdxfA",
+          "width": "225",
+          "height": "225"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "genius.com",
+        "crumbs": [
+          "Tj-beastboy-bla-bla-bla-lyrics"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:7KljFlUuBGMJ:genius.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=partner-pub-7524682787227502:9l3wirvcbyb&q=https://genius.com/Dardan-bla-bla-bla-lyrics&sa=U&ved=2ahUKEwiJ4enuqvz6AhXWgf0HHQ59CAoQFnoECAkQAg&usg=AOvVaw2u8JofaDzS1HQYEaj26H4O",
+      "content": "17.08.2018 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eBla Bla Bla\u003c/b\u003e Lyrics: Ey, ey, ey / Brrra (Hypnotize) / Mister Dardy im Geschäft, mache immer Flouz (woo) / Meine Augen immer red,&nbsp;...",
+      "contentNoFormatting": "17.08.2018 ... Bla Bla Bla Lyrics: Ey, ey, ey / Brrra (Hypnotize) / Mister Dardy im Geschäft, mache immer Flouz (woo) / Meine Augen immer red, ...",
+      "title": "Dardan – \u003cb\u003eBla Bla Bla\u003c/b\u003e Lyrics | Genius Lyrics",
+      "titleNoFormatting": "Dardan – Bla Bla Bla Lyrics | Genius Lyrics",
+      "formattedUrl": "https://genius.com/Dardan-\u003cb\u003ebla\u003c/b\u003e-\u003cb\u003ebla\u003c/b\u003e-\u003cb\u003ebla\u003c/b\u003e-lyrics",
+      "unescapedUrl": "https://genius.com/Dardan-bla-bla-bla-lyrics",
+      "url": "https://genius.com/Dardan-bla-bla-bla-lyrics",
+      "visibleUrl": "genius.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://images.genius.com/d3bf2e679fe3e2e9a293588757deccb1.1000x1000x1.jpg"
+        },
+        "metatags": {
+          "twitterAppUrlIphone": "genius://songs/3864673",
+          "twitterTitle": "Dardan – Bla Bla Bla",
+          "twitterSite": "@Genius",
+          "fbPages": "308252472676410",
+          "twitterImage": "https://images.genius.com/d3bf2e679fe3e2e9a293588757deccb1.1000x1000x1.jpg",
+          "twitterUrl": "https://genius.com/Dardan-bla-bla-bla-lyrics",
+          "ogTitle": "Dardan – Bla Bla Bla",
+          "ogDescription": "[Intro] / Ey, ey, ey / Brrra (Hypnotize) / [Part 1] / Mister Dardy im Geschäft, mache immer Flouz (woo) / Meine Augen immer red, so wie Liverpool (Swish) / Hot-Night, trinke",
+          "ogImage": "https://images.genius.com/d3bf2e679fe3e2e9a293588757deccb1.1000x1000x1.jpg",
+          "ogType": "music.song",
+          "twitterCard": "summary_large_image",
+          "twitterType": "music.song",
+          "viewport": "width=device-width,initial-scale=1",
+          "twitterDescription": "[Intro] / Ey, ey, ey / Brrra (Hypnotize) / [Part 1] / Mister Dardy im Geschäft, mache immer Flouz (woo) / Meine Augen immer red, so wie Liverpool (Swish) / Hot-Night, trinke",
+          "themeColor": "#b67b5e",
+          "ogUrl": "https://genius.com/Dardan-bla-bla-bla-lyrics",
+          "ogSiteName": "Genius",
+          "twitterAppIdIphone": "709482991",
+          "appleItunesApp": "app-id=709482991",
+          "yKey": "f63347d284f184b0",
+          "twitterAppNameIphone": "Genius",
+          "fbAppId": "265539304824"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-SBF0mc3taDVVzc4qpJCYoQkfHAwvo3UGWVKe5oDLCilFL2jADwtNIhbm",
+          "width": "225",
+          "height": "225"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "genius.com",
+        "crumbs": [
+          "Dardan-bla-bla-bla-lyrics"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:yZnuod1jJ4gJ:genius.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=partner-pub-7524682787227502:9l3wirvcbyb&q=https://genius.com/102-boyz-bla-bla-lyrics&sa=U&ved=2ahUKEwiJ4enuqvz6AhXWgf0HHQ59CAoQFnoECAgQAQ&usg=AOvVaw257rLVnzG0j1uq7e1-zEyM",
+      "content": "Have the inside scoop on this song? Sign up and drop some knowledge. Start the song bio. Ask us a question about this song.",
+      "contentNoFormatting": "Have the inside scoop on this song? Sign up and drop some knowledge. Start the song bio. Ask us a question about this song.",
+      "title": "102 Boyz – \u003cb\u003eBla Bla\u003c/b\u003e Lyrics | Genius Lyrics",
+      "titleNoFormatting": "102 Boyz – Bla Bla Lyrics | Genius Lyrics",
+      "formattedUrl": "https://genius.com/102-boyz-\u003cb\u003ebla\u003c/b\u003e-\u003cb\u003ebla\u003c/b\u003e-lyrics",
+      "unescapedUrl": "https://genius.com/102-boyz-bla-bla-lyrics",
+      "url": "https://genius.com/102-boyz-bla-bla-lyrics",
+      "visibleUrl": "genius.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://images.genius.com/385644c97e668281b1c4b0e1017ae585.500x500x1.jpg"
+        },
+        "metatags": {
+          "twitterAppUrlIphone": "genius://songs/4189461",
+          "twitterTitle": "102 Boyz (Ft. Brown-Eyes White Boy, Chapo102, Hugo Nameless, Kkuba102, Skoob102 & Stacks102) – Bla Bla",
+          "twitterSite": "@Genius",
+          "fbPages": "308252472676410",
+          "twitterImage": "https://images.genius.com/385644c97e668281b1c4b0e1017ae585.500x500x1.jpg",
+          "twitterUrl": "https://genius.com/102-boyz-bla-bla-lyrics",
+          "ogTitle": "102 Boyz (Ft. Brown-Eyes White Boy, Chapo102, Hugo Nameless, Kkuba102, Skoob102 & Stacks102) – Bla Bla",
+          "ogDescription": "[Intro] / Ey, ey / [Part: STACKS102] / Huren sind so highclassed, tragen Schmuck an ihrer Vagina (yeah) / Genießer-Modus momentan, greif' deiner Thot an' Arsch (pah, pah, pah",
+          "ogImage": "https://images.genius.com/385644c97e668281b1c4b0e1017ae585.500x500x1.jpg",
+          "ogType": "music.song",
+          "twitterCard": "summary_large_image",
+          "twitterType": "music.song",
+          "viewport": "width=device-width,initial-scale=1",
+          "twitterDescription": "[Intro] / Ey, ey / [Part: STACKS102] / Huren sind so highclassed, tragen Schmuck an ihrer Vagina (yeah) / Genießer-Modus momentan, greif' deiner Thot an' Arsch (pah, pah, pah",
+          "themeColor": "#ec3617",
+          "ogUrl": "https://genius.com/102-boyz-bla-bla-lyrics",
+          "ogSiteName": "Genius",
+          "twitterAppIdIphone": "709482991",
+          "appleItunesApp": "app-id=709482991",
+          "yKey": "f63347d284f184b0",
+          "twitterAppNameIphone": "Genius",
+          "fbAppId": "265539304824"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdcCk2Y7QeSkbYfD4toxxIEs2U44m1SXCBa4SsWozIgrzdKwMGpZUg_Zf8",
+          "width": "225",
+          "height": "225"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "genius.com",
+        "crumbs": [
+          "102-boyz-bla-bla-lyrics"
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=partner-pub-7524682787227502:9l3wirvcbyb&q=https://www.azlyrics.com/lyrics/tjbeastboy/blablabla.html&sa=U&ved=2ahUKEwiJ4enuqvz6AhXWgf0HHQ59CAoQFnoECAUQAQ&usg=AOvVaw1sZg113IZgtVuICLr8MFq_",
+      "content": "TJ_beastboy &quot;\u003cb\u003eBLA BLA BLA\u003c/b\u003e&quot;: Beastboy Kira on the phone! Ich schreibe Geschichte und du nur Kommis Du Dulli bist angry und ich z...",
+      "contentNoFormatting": "TJ_beastboy \"BLA BLA BLA\": Beastboy Kira on the phone! Ich schreibe Geschichte und du nur Kommis Du Dulli bist angry und ich z...",
+      "title": "TJ_beastboy - &quot;\u003cb\u003eBLA BLA BLA\u003c/b\u003e&quot; songtext | Lyrics at AZLyrics.com",
+      "titleNoFormatting": "TJ_beastboy - \"BLA BLA BLA\" songtext | Lyrics at AZLyrics.com",
+      "formattedUrl": "https://www.azlyrics.com/lyrics/tjbeastboy/\u003cb\u003eblablabla\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.azlyrics.com/lyrics/tjbeastboy/blablabla.html",
+      "url": "https://www.azlyrics.com/lyrics/tjbeastboy/blablabla.html",
+      "visibleUrl": "www.azlyrics.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "//www.azlyrics.com/az_logo_tr.png"
+        },
+        "metatags": {
+          "viewport": "width=device-width, initial-scale=1",
+          "ogImage": "//www.azlyrics.com/az_logo_tr.png"
+        },
+        "listitem": [
+          {
+            "item": "AZLyrics",
+            "name": "AZLyrics",
+            "position": "1"
+          },
+          {
+            "item": "T",
+            "name": "T",
+            "position": "2"
+          },
+          {
+            "item": "TJ_beastboy Lyrics",
+            "name": "TJ_beastboy Lyrics",
+            "position": "3"
+          }
+        ]
+      },
+      "breadcrumbUrl": {
+        "host": "www.azlyrics.com",
+        "crumbs": [
+          "T",
+          "TJ_beastboy Lyrics"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:FojFEIf0BJ0J:genius.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=partner-pub-7524682787227502:9l3wirvcbyb&q=https://genius.com/Azzi-memo-blabla-lyrics&sa=U&ved=2ahUKEwiJ4enuqvz6AhXWgf0HHQ59CAoQFnoECAYQAg&usg=AOvVaw2bJGM1VDh-SYhtYvQvR9wg",
+      "content": "07.09.2018 \u003cb\u003e...\u003c/b\u003e [Songtext zu „BlaBla“ ft. Nimo] [Intro: Nimo &amp; Azzi Memo] Du kleiner Idiot, ich frage mich, wieso. Nimmst du hinter Rücken wiederholt mein&#39;n&nbsp;...",
+      "contentNoFormatting": "07.09.2018 ... [Songtext zu „BlaBla“ ft. Nimo] [Intro: Nimo & Azzi Memo] Du kleiner Idiot, ich frage mich, wieso. Nimmst du hinter Rücken wiederholt mein'n ...",
+      "title": "Azzi Memo – BlaBla Lyrics | Genius Lyrics",
+      "titleNoFormatting": "Azzi Memo – BlaBla Lyrics | Genius Lyrics",
+      "formattedUrl": "https://genius.com/Azzi-memo-\u003cb\u003eblabla\u003c/b\u003e-lyrics",
+      "unescapedUrl": "https://genius.com/Azzi-memo-blabla-lyrics",
+      "url": "https://genius.com/Azzi-memo-blabla-lyrics",
+      "visibleUrl": "genius.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://images.genius.com/2384896fbdb613b81724e0f912747649.1000x1000x1.jpg"
+        },
+        "metatags": {
+          "twitterAppUrlIphone": "genius://songs/3908836",
+          "twitterTitle": "Azzi Memo (Ft. Nimo) – BlaBla",
+          "twitterSite": "@Genius",
+          "fbPages": "308252472676410",
+          "twitterImage": "https://images.genius.com/2384896fbdb613b81724e0f912747649.1000x1000x1.jpg",
+          "twitterUrl": "https://genius.com/Azzi-memo-blabla-lyrics",
+          "ogTitle": "Azzi Memo (Ft. Nimo) – BlaBla",
+          "ogDescription": "[Songtext zu „BlaBla“ ft. Nimo] / [Intro: Nimo & Azzi Memo] / Du kleiner Idiot, ich frage mich, wieso / Nimmst du hinter Rücken wiederholt mein'n Namen in dein'n Mund? / Wieso",
+          "ogImage": "https://images.genius.com/2384896fbdb613b81724e0f912747649.1000x1000x1.jpg",
+          "ogType": "music.song",
+          "twitterCard": "summary_large_image",
+          "twitterType": "music.song",
+          "viewport": "width=device-width,initial-scale=1",
+          "twitterDescription": "[Songtext zu „BlaBla“ ft. Nimo] / [Intro: Nimo & Azzi Memo] / Du kleiner Idiot, ich frage mich, wieso / Nimmst du hinter Rücken wiederholt mein'n Namen in dein'n Mund? / Wieso",
+          "themeColor": "#169bd9",
+          "ogUrl": "https://genius.com/Azzi-memo-blabla-lyrics",
+          "ogSiteName": "Genius",
+          "twitterAppIdIphone": "709482991",
+          "appleItunesApp": "app-id=709482991",
+          "yKey": "f63347d284f184b0",
+          "twitterAppNameIphone": "Genius",
+          "fbAppId": "265539304824"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwNa8b-2h6qITdvhsaTGNEZsiU0jTmRMAHP8i3hMXFMAb_wElNryhrRjru",
+          "width": "225",
+          "height": "225"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "genius.com",
+        "crumbs": [
+          "Azzi-memo-blabla-lyrics"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:kc-fZL4BXHsJ:genius.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=partner-pub-7524682787227502:9l3wirvcbyb&q=https://genius.com/Axel-prahl-bla-bla-bla-lyrics&sa=U&ved=2ahUKEwiJ4enuqvz6AhXWgf0HHQ59CAoQFnoECAcQAQ&usg=AOvVaw00d01tuBmHs-RhYpRKknfk",
+      "content": "About. Have the inside scoop on this song? Sign up and drop some knowledge. Start the song bio.",
+      "contentNoFormatting": "About. Have the inside scoop on this song? Sign up and drop some knowledge. Start the song bio.",
+      "title": "Axel Prahl – \u003cb\u003eBla Bla Bla\u003c/b\u003e Lyrics | Genius Lyrics",
+      "titleNoFormatting": "Axel Prahl – Bla Bla Bla Lyrics | Genius Lyrics",
+      "formattedUrl": "https://genius.com/Axel-prahl-\u003cb\u003ebla\u003c/b\u003e-\u003cb\u003ebla\u003c/b\u003e-\u003cb\u003ebla\u003c/b\u003e-lyrics",
+      "unescapedUrl": "https://genius.com/Axel-prahl-bla-bla-bla-lyrics",
+      "url": "https://genius.com/Axel-prahl-bla-bla-bla-lyrics",
+      "visibleUrl": "genius.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "http://assets.genius.com/images/sharing_fallback.png?1666193196"
+        },
+        "metatags": {
+          "twitterAppUrlIphone": "genius://songs/1003240",
+          "twitterTitle": "Axel Prahl – Bla Bla Bla",
+          "twitterSite": "@Genius",
+          "fbPages": "308252472676410",
+          "twitterImage": "https://assets.genius.com/images/default_cover_art.png?1666193195",
+          "twitterUrl": "https://genius.com/Axel-prahl-bla-bla-bla-lyrics",
+          "ogTitle": "Axel Prahl – Bla Bla Bla",
+          "ogDescription": "Im Zuge der bevorstehenden Wirtschaftsreform müssen wir alle ... blablablabla / So´n Menschen wie Dich, hab ich noch nie, noch nie in meinem Leben ... blablablabla / Die",
+          "ogImage": "http://assets.genius.com/images/sharing_fallback.png?1666193196",
+          "ogType": "music.song",
+          "twitterCard": "summary_large_image",
+          "twitterType": "music.song",
+          "viewport": "width=device-width,initial-scale=1",
+          "twitterDescription": "Im Zuge der bevorstehenden Wirtschaftsreform müssen wir alle ... blablablabla / So´n Menschen wie Dich, hab ich noch nie, noch nie in meinem Leben ... blablablabla / Die",
+          "themeColor": "#E9E9E9",
+          "ogUrl": "https://genius.com/Axel-prahl-bla-bla-bla-lyrics",
+          "ogSiteName": "Genius",
+          "twitterAppIdIphone": "709482991",
+          "appleItunesApp": "app-id=709482991",
+          "yKey": "f63347d284f184b0",
+          "twitterAppNameIphone": "Genius",
+          "fbAppId": "265539304824"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG0x0cjiUyXhya5JAp0eeZkccXrC-HPZYKvTwvCyepWCmJYlAnhuiOGAP4",
+          "width": "225",
+          "height": "225"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "genius.com",
+        "crumbs": [
+          "Axel-prahl-bla-bla-bla-lyrics"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:aTXVx_xgVPoJ:www.musixmatch.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=partner-pub-7524682787227502:9l3wirvcbyb&q=https://www.musixmatch.com/lyrics/Dardan/Bla-Bla-Bla&sa=U&ved=2ahUKEwiJ4enuqvz6AhXWgf0HHQ59CAoQFnoECAIQAg&usg=AOvVaw1oyI31wul6FdtT5rbGD6kJ",
+      "content": "19.09.2021 \u003cb\u003e...\u003c/b\u003e Lyrics for \u003cb\u003eBla Bla Bla\u003c/b\u003e by Dardan. Ey, ey, ey Brrra (Hypnotize) Mister Dardy im Geschäft, mache immer Flouz (woo) Meine Auge...",
+      "contentNoFormatting": "19.09.2021 ... Lyrics for Bla Bla Bla by Dardan. Ey, ey, ey Brrra (Hypnotize) Mister Dardy im Geschäft, mache immer Flouz (woo) Meine Auge...",
+      "title": "Dardan - \u003cb\u003eBla Bla Bla\u003c/b\u003e Lyrics | Musixmatch",
+      "titleNoFormatting": "Dardan - Bla Bla Bla Lyrics | Musixmatch",
+      "formattedUrl": "https://www.musixmatch.com/lyrics/Dardan/\u003cb\u003eBla\u003c/b\u003e-\u003cb\u003eBla\u003c/b\u003e-\u003cb\u003eBla\u003c/b\u003e",
+      "unescapedUrl": "https://www.musixmatch.com/lyrics/Dardan/Bla-Bla-Bla",
+      "url": "https://www.musixmatch.com/lyrics/Dardan/Bla-Bla-Bla",
+      "visibleUrl": "www.musixmatch.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://s.mxmcdn.net/images-storage/albums2/4/4/9/0/8/8/40880944_800_800.jpg"
+        },
+        "metatags": {
+          "twitterAppUrlIphone": "mxm://lyrics/155470458",
+          "twitterTitle": "Dardan - Bla Bla Bla Lyrics | Musixmatch",
+          "ogTitle": "Dardan - Bla Bla Bla Lyrics | Musixmatch",
+          "twitterAppUrlGoogleplay": "mxm://lyrics/155470458",
+          "ogType": "musixmatch:lyrics",
+          "ogTrackId": "155470458",
+          "baiduSiteVerification": "m6xTItKX2q",
+          "alAndroidAppName": "musixmatch lyrics player",
+          "alWindowsPhoneAppName": "musixmatch lyrics player",
+          "ogSiteName": "musiXmatch",
+          "twitterAppNameIphone": "Musixmatch Lyrics Player",
+          "alWindowsPhoneUrl": "mxm://lyrics/155470458",
+          "identifier": "https://www.musixmatch.com",
+          "twitterSite": "@musixmatch",
+          "alWebUrl": "https://www.musixmatch.com/lyrics/Dardan/Bla-Bla-Bla",
+          "twitterDomain": "musixmatch.com",
+          "google": "notranslate",
+          "alIosAppStoreId": "448278467",
+          "ogImage": "https://s.mxmcdn.net/images-storage/albums2/4/4/9/0/8/8/40880944_800_800.jpg",
+          "twitterAppUrlIpad": "mxm://lyrics/155470458",
+          "twitterDescription": "Lyrics for Bla Bla Bla by Dardan. Ey, ey, ey\nBrrra (Hypnotize)\n\nMister Dardy im Geschäft, mache immer Flouz (woo)\nMeine Auge...",
+          "ogArtistId": "31972676",
+          "ogUrl": "https://www.musixmatch.com/lyrics/Dardan/Bla-Bla-Bla",
+          "twitterAppIdIphone": "448278467",
+          "appleMobileWebAppStatusBarStyle": "black",
+          "twitterAppIdIpad": "448278467",
+          "alWebShouldFallback": "false",
+          "alAndroidUrl": "mxm://lyrics/155470458",
+          "twitterCreator": "@musixmatch",
+          "ogImageWidth": "800",
+          "msapplicationPackagefamilyname": "Musixmatch.Lyrics_7gejyv32yt3te",
+          "twitterAppNameIpad": "Musixmatch Lyrics Player",
+          "alAndroidPackage": "com.musixmatch.android.lyrify",
+          "twitterCard": "summary",
+          "msapplicationTileimage": "//s.mxmcdn.net/site/images/win_tile_144.png",
+          "ogImageHeight": "800",
+          "yandexVerification": "5381b8eb344dfaa4",
+          "msapplicationId": "App",
+          "fbPages": "149249358474982",
+          "alWindowsPhoneAppId": "f70c52a0-e9d5-df11-a844-00237de2db9e",
+          "ogDescription": "Lyrics for Bla Bla Bla by Dardan. Ey, ey, ey\nBrrra (Hypnotize)\n\nMister Dardy im Geschäft, mache immer Flouz (woo)\nMeine Auge...",
+          "twitterImageSrc": "https://s.mxmcdn.net/images-storage/albums2/4/4/9/0/8/8/40880944_800_800.jpg",
+          "twitterAppNameGoogleplay": "Musixmatch Lyrics Player",
+          "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+          "alIosAppName": "musixmatch lyrics player",
+          "alIosUrl": "mxm://lyrics/155470458",
+          "appleMobileWebAppCapable": "yes",
+          "twitterAppIdGoogleplay": "com.musixmatch.android.lyrify",
+          "fbAppId": "131314396964274"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "www.musixmatch.com",
+        "crumbs": [
+          "lyrics",
+          "Dardan",
+          "Bla-Bla-Bla"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:W2a8uNGwcpkJ:genius.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=partner-pub-7524682787227502:9l3wirvcbyb&q=https://genius.com/Tic-tac-toe-bla-bla-lyrics&sa=U&ved=2ahUKEwiJ4enuqvz6AhXWgf0HHQ59CAoQFnoECAMQAQ&usg=AOvVaw2Ag-Bn1m12jFJDiKm7yaFp",
+      "content": "Have the inside scoop on this song? Sign up and drop some knowledge. Start the song bio. Ask us a question about this song.",
+      "contentNoFormatting": "Have the inside scoop on this song? Sign up and drop some knowledge. Start the song bio. Ask us a question about this song.",
+      "title": "Tic Tac Toe – \u003cb\u003eBla bla\u003c/b\u003e Lyrics | Genius Lyrics",
+      "titleNoFormatting": "Tic Tac Toe – Bla bla Lyrics | Genius Lyrics",
+      "formattedUrl": "https://genius.com/Tic-tac-toe-\u003cb\u003ebla\u003c/b\u003e-\u003cb\u003ebla\u003c/b\u003e-lyrics",
+      "unescapedUrl": "https://genius.com/Tic-tac-toe-bla-bla-lyrics",
+      "url": "https://genius.com/Tic-tac-toe-bla-bla-lyrics",
+      "visibleUrl": "genius.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://images.genius.com/200d3db102d4eca5206519776ea77547.953x953x1.jpg"
+        },
+        "metatags": {
+          "twitterAppUrlIphone": "genius://songs/5011803",
+          "twitterTitle": "Tic Tac Toe – Bla bla",
+          "twitterSite": "@Genius",
+          "fbPages": "308252472676410",
+          "twitterImage": "https://images.genius.com/200d3db102d4eca5206519776ea77547.953x953x1.jpg",
+          "twitterUrl": "https://genius.com/Tic-tac-toe-bla-bla-lyrics",
+          "ogTitle": "Tic Tac Toe – Bla bla",
+          "ogDescription": "[Part 1] / Du schaust mich an und ich denke, ach du scheiße, bloß schnell weg / Doch du hast mich schon geseh'n, noch zu flüchten hat kein' Zweck / \"Hallo Süße wir ha'm uns ewig",
+          "ogImage": "https://images.genius.com/200d3db102d4eca5206519776ea77547.953x953x1.jpg",
+          "ogType": "music.song",
+          "twitterCard": "summary_large_image",
+          "twitterType": "music.song",
+          "viewport": "width=device-width,initial-scale=1",
+          "twitterDescription": "[Part 1] / Du schaust mich an und ich denke, ach du scheiße, bloß schnell weg / Doch du hast mich schon geseh'n, noch zu flüchten hat kein' Zweck / \"Hallo Süße wir ha'm uns ewig",
+          "themeColor": "#c58356",
+          "ogUrl": "https://genius.com/Tic-tac-toe-bla-bla-lyrics",
+          "ogSiteName": "Genius",
+          "twitterAppIdIphone": "709482991",
+          "appleItunesApp": "app-id=709482991",
+          "yKey": "f63347d284f184b0",
+          "twitterAppNameIphone": "Genius",
+          "fbAppId": "265539304824"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxMU4viSVtGsnxcIBul6de0izxN70j6xTFt71tTo7ujVsVqEvpBfjzJ_c",
+          "width": "224",
+          "height": "224"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "genius.com",
+        "crumbs": [
+          "Tic-tac-toe-bla-bla-lyrics"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:YfbadiedA9EJ:genius.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=partner-pub-7524682787227502:9l3wirvcbyb&q=https://genius.com/Fresh-dumbledore-lied-vom-inhalt-lyrics&sa=U&ved=2ahUKEwiJ4enuqvz6AhXWgf0HHQ59CAoQFnoECAEQAg&usg=AOvVaw0ziAoOBpq5Zy2c7gu5iTqL",
+      "content": "05.06.2008 \u003cb\u003e...\u003c/b\u003e Neee Lied vom Inhalt \u003cb\u003ebla bla bla bla bla bla\u003c/b\u003e. Hey ich hab mir vorhin ein Marmeladenbrot geschmiert - Inhalt \u003cb\u003ebla bla bla bla bla bla\u003c/b\u003e",
+      "contentNoFormatting": "05.06.2008 ... Neee Lied vom Inhalt bla bla bla bla bla bla. Hey ich hab mir vorhin ein Marmeladenbrot geschmiert - Inhalt bla bla bla bla bla bla",
+      "title": "Fresh Dumbledore – Lied vom Inhalt Lyrics | Genius Lyrics",
+      "titleNoFormatting": "Fresh Dumbledore – Lied vom Inhalt Lyrics | Genius Lyrics",
+      "formattedUrl": "https://genius.com/Fresh-dumbledore-lied-vom-inhalt-lyrics",
+      "unescapedUrl": "https://genius.com/Fresh-dumbledore-lied-vom-inhalt-lyrics",
+      "url": "https://genius.com/Fresh-dumbledore-lied-vom-inhalt-lyrics",
+      "visibleUrl": "genius.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "http://images.genius.com/a439dbf85e0a405866923a3b4ee37db3.340x340x1.jpg"
+        },
+        "metatags": {
+          "twitterAppUrlIphone": "genius://songs/921799",
+          "twitterTitle": "Fresh Dumbledore – Lied vom Inhalt",
+          "twitterSite": "@Genius",
+          "fbPages": "308252472676410",
+          "twitterImage": "http://images.genius.com/a439dbf85e0a405866923a3b4ee37db3.340x340x1.jpg",
+          "twitterUrl": "https://genius.com/Fresh-dumbledore-lied-vom-inhalt-lyrics",
+          "ogTitle": "Fresh Dumbledore – Lied vom Inhalt",
+          "ogDescription": "Sie sagt \"doch\" und ich sag \"nee\" / Sie sagt \"doch\" und ich sag \"nee\" / Sie sagt \"doch\" und ich sag \"nee\" / Sie sagt \"doch\" und ich sag: / Neee Lied vom Inhalt bla bla bla bla bla",
+          "ogImage": "http://images.genius.com/a439dbf85e0a405866923a3b4ee37db3.340x340x1.jpg",
+          "ogType": "music.song",
+          "twitterCard": "summary_large_image",
+          "twitterType": "music.song",
+          "viewport": "width=device-width,initial-scale=1",
+          "twitterDescription": "Sie sagt \"doch\" und ich sag \"nee\" / Sie sagt \"doch\" und ich sag \"nee\" / Sie sagt \"doch\" und ich sag \"nee\" / Sie sagt \"doch\" und ich sag: / Neee Lied vom Inhalt bla bla bla bla bla",
+          "themeColor": "#ac7c3c",
+          "ogUrl": "https://genius.com/Fresh-dumbledore-lied-vom-inhalt-lyrics",
+          "ogSiteName": "Genius",
+          "twitterAppIdIphone": "709482991",
+          "appleItunesApp": "app-id=709482991",
+          "yKey": "f63347d284f184b0",
+          "twitterAppNameIphone": "Genius",
+          "fbAppId": "265539304824"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS23NE6wfTqDje45HzYcVnVHsxOMrMXUmaDdeL1xtnl2JKCrDeyiMPhmSY",
+          "width": "225",
+          "height": "225"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "genius.com",
+        "crumbs": [
+          "Fresh-dumbledore-lied-vom-inhalt-lyrics"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:VdDQszkYFTIJ:www.musixmatch.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=partner-pub-7524682787227502:9l3wirvcbyb&q=https://www.musixmatch.com/de/songtext/TJ-beastboy/BLA-BLA-BLA&sa=U&ved=2ahUKEwiJ4enuqvz6AhXWgf0HHQ59CAoQFnoECAAQAg&usg=AOvVaw3SqFoy1DBrhInUbPW_wnhq",
+      "content": "18.10.2019 \u003cb\u003e...\u003c/b\u003e Songtext für \u003cb\u003eBLA BLA BLA\u003c/b\u003e von TJ_beastboy. Beastboy Kira on the phone! Ich schreibe Geschichte und du nur Kommis Du Dulli bist angry...",
+      "contentNoFormatting": "18.10.2019 ... Songtext für BLA BLA BLA von TJ_beastboy. Beastboy Kira on the phone! Ich schreibe Geschichte und du nur Kommis Du Dulli bist angry...",
+      "title": "TJ_beastboy - \u003cb\u003eBLA BLA BLA\u003c/b\u003e Songtext | Musixmatch",
+      "titleNoFormatting": "TJ_beastboy - BLA BLA BLA Songtext | Musixmatch",
+      "formattedUrl": "https://www.musixmatch.com/de/songtext/TJ-beastboy/\u003cb\u003eBLA\u003c/b\u003e-\u003cb\u003eBLA\u003c/b\u003e-\u003cb\u003eBLA\u003c/b\u003e",
+      "unescapedUrl": "https://www.musixmatch.com/de/songtext/TJ-beastboy/BLA-BLA-BLA",
+      "url": "https://www.musixmatch.com/de/songtext/TJ-beastboy/BLA-BLA-BLA",
+      "visibleUrl": "www.musixmatch.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://s.mxmcdn.net/images-storage/albums5/9/3/8/7/7/5/46577839_500_500.jpg"
+        },
+        "metatags": {
+          "twitterAppUrlIphone": "mxm://lyrics/186100901",
+          "twitterTitle": "TJ_beastboy - BLA BLA BLA Songtext | Musixmatch",
+          "ogTitle": "TJ_beastboy - BLA BLA BLA Songtext | Musixmatch",
+          "twitterAppUrlGoogleplay": "mxm://lyrics/186100901",
+          "ogType": "musixmatch:lyrics",
+          "ogTrackId": "186100901",
+          "baiduSiteVerification": "m6xTItKX2q",
+          "alAndroidAppName": "musixmatch lyrics player",
+          "alWindowsPhoneAppName": "musixmatch lyrics player",
+          "ogSiteName": "musiXmatch",
+          "twitterAppNameIphone": "Musixmatch Lyrics Player",
+          "alWindowsPhoneUrl": "mxm://lyrics/186100901",
+          "identifier": "https://www.musixmatch.com",
+          "twitterSite": "@musixmatch",
+          "alWebUrl": "https://www.musixmatch.com/de/songtext/TJ-beastboy/BLA-BLA-BLA",
+          "twitterDomain": "musixmatch.com",
+          "google": "notranslate",
+          "alIosAppStoreId": "448278467",
+          "ogImage": "https://s.mxmcdn.net/images-storage/albums5/9/3/8/7/7/5/46577839_500_500.jpg",
+          "twitterAppUrlIpad": "mxm://lyrics/186100901",
+          "twitterDescription": "Songtext für BLA BLA BLA von TJ_beastboy. Beastboy\nKira on the phone!\n\nIch schreibe Geschichte und du nur Kommis\nDu Dulli bist angry...",
+          "ogArtistId": "34387361",
+          "ogUrl": "https://www.musixmatch.com/de/songtext/TJ-beastboy/BLA-BLA-BLA",
+          "twitterAppIdIphone": "448278467",
+          "appleMobileWebAppStatusBarStyle": "black",
+          "twitterAppIdIpad": "448278467",
+          "alWebShouldFallback": "false",
+          "alAndroidUrl": "mxm://lyrics/186100901",
+          "twitterCreator": "@musixmatch",
+          "ogImageWidth": "500",
+          "msapplicationPackagefamilyname": "Musixmatch.Lyrics_7gejyv32yt3te",
+          "twitterAppNameIpad": "Musixmatch Lyrics Player",
+          "alAndroidPackage": "com.musixmatch.android.lyrify",
+          "twitterCard": "summary",
+          "msapplicationTileimage": "//s.mxmcdn.net/site/images/win_tile_144.png",
+          "ogImageHeight": "500",
+          "yandexVerification": "5381b8eb344dfaa4",
+          "msapplicationId": "App",
+          "fbPages": "149249358474982",
+          "alWindowsPhoneAppId": "f70c52a0-e9d5-df11-a844-00237de2db9e",
+          "ogDescription": "Songtext für BLA BLA BLA von TJ_beastboy. Beastboy\nKira on the phone!\n\nIch schreibe Geschichte und du nur Kommis\nDu Dulli bist angry...",
+          "twitterImageSrc": "https://s.mxmcdn.net/images-storage/albums5/9/3/8/7/7/5/46577839_500_500.jpg",
+          "twitterAppNameGoogleplay": "Musixmatch Lyrics Player",
+          "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+          "alIosAppName": "musixmatch lyrics player",
+          "alIosUrl": "mxm://lyrics/186100901",
+          "appleMobileWebAppCapable": "yes",
+          "twitterAppIdGoogleplay": "com.musixmatch.android.lyrify",
+          "fbAppId": "131314396964274"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSXIILWoV5husRl7zFX3cPfmOYS9Y9ybLSW6EJXuzwisNclfzvKzTQLJq",
+          "width": "225",
+          "height": "225"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "www.musixmatch.com",
+        "crumbs": [
+          "songtext",
+          "TJ-beastboy",
+          "BLA-BLA-BLA"
+        ]
+      }
+    }
+  ],
+  "findMoreOnGoogle": {
+    "url": "https://www.google.com/search?client=ms-google-coop&q=bla&cx=partner-pub-7524682787227502:9l3wirvcbyb"
+  }
+});

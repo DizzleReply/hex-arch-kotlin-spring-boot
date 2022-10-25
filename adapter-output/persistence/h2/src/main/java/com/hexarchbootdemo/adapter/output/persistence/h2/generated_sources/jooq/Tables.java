@@ -7,7 +7,7 @@ package com.hexarchbootdemo.adapter.output.persistence.h2.generated_sources.jooq
 import com.hexarchbootdemo.adapter.output.persistence.h2.generated_sources.jooq.tables.FlywaySchemaHistory;
 import com.hexarchbootdemo.adapter.output.persistence.h2.generated_sources.jooq.tables.Voter;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 
 
 /**

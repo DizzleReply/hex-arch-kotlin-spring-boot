@@ -8,7 +8,7 @@ import com.hexarchbootdemo.adapter.output.persistence.h2.generated_sources.jooq.
 
 import java.sql.Timestamp;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 
 import org.jooq.Field;
 import org.jooq.Record1;
@@ -30,7 +30,7 @@ import org.jooq.impl.UpdatableRecordImpl;
 @SuppressWarnings({ "all", "unchecked", "rawtypes" })
 public class FlywaySchemaHistoryRecord extends UpdatableRecordImpl<FlywaySchemaHistoryRecord> implements Record10<Integer, String, String, String, String, Integer, String, Timestamp, Integer, Boolean> {
 
-    private static final long serialVersionUID = 1467734515;
+    private static final long serialVersionUID = 1715767620;
 
     /**
      * Setter for <code>flyway_schema_history.installed_rank</code>.

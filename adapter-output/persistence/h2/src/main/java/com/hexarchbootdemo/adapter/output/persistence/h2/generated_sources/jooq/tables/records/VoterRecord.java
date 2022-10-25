@@ -8,7 +8,7 @@ import com.hexarchbootdemo.adapter.output.persistence.h2.generated_sources.jooq.
 
 import java.util.UUID;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 
 import org.jooq.Field;
 import org.jooq.Record1;
@@ -30,7 +30,7 @@ import org.jooq.impl.UpdatableRecordImpl;
 @SuppressWarnings({ "all", "unchecked", "rawtypes" })
 public class VoterRecord extends UpdatableRecordImpl<VoterRecord> implements Record4<UUID, String, String, String> {
 
-    private static final long serialVersionUID = 268554974;
+    private static final long serialVersionUID = 799541107;
 
     /**
      * Setter for <code>VOTER.ID</code>.

@@ -7,7 +7,7 @@ package com.hexarchbootdemo.adapter.output.persistence.h2.generated_sources.jooq
 import java.io.Serializable;
 import java.util.UUID;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 
 
 /**
@@ -23,7 +23,7 @@ import javax.annotation.Generated;
 @SuppressWarnings({ "all", "unchecked", "rawtypes" })
 public class Voter implements Serializable {
 
-    private static final long serialVersionUID = -1720521003;
+    private static final long serialVersionUID = -1238468322;
 
     private final UUID   id;
     private final String firstName;

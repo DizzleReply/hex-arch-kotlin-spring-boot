@@ -10,7 +10,7 @@ import com.hexarchbootdemo.adapter.output.persistence.h2.generated_sources.jooq.
 import java.util.List;
 import java.util.UUID;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 
 import org.jooq.Configuration;
 import org.jooq.impl.DAOImpl;

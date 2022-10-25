@@ -15,7 +15,10 @@ interface FindVoterUseCase {
         init {
             validate(this) {
                 validate(FindByLastNameQuery::lastNameContains).isNotEmpty()
+                println("Validate/")
             }
         }
     }
+    fun findByMediaType(query: FindByLastNameQuery): List<Voter>
+
 }
